@@ -55,7 +55,7 @@ NESTS:
           - TNC_SHARED
 
 SPEC: tour_mode_choice.csv
-COEFFICIENTS: tour_mode_choice_coeffs_calibrated.csv
+COEFFICIENTS: tour_mode_choice_coeffs_calibrated_v2.csv
 COEFFICIENT_TEMPLATE: tour_mode_choice_coeffs_template.csv
 
 CONSTANTS:
