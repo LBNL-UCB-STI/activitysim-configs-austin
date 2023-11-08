@@ -29,7 +29,7 @@ SIMULATE_CHOOSER_COLUMNS:
   - TAZ
   - person_id
 
-LOGSUM_SETTINGS: tour_mode_choice_v3.yaml
+LOGSUM_SETTINGS: tour_mode_choice.yaml
 
 # model-specific logsum-related settings
 CHOOSER_ORIG_COL_NAME: TAZ

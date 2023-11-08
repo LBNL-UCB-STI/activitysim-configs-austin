@@ -8,7 +8,7 @@ SAMPLE_SPEC: workplace_location_sample.csv
 SPEC: workplace_location.csv
 COEFFICIENTS: workplace_location_coeffs.csv
 
-LOGSUM_SETTINGS: tour_mode_choice_v3.yaml
+LOGSUM_SETTINGS: tour_mode_choice.yaml
 LOGSUM_PREPROCESSOR: nontour_preprocessor
 LOGSUM_TOUR_PURPOSE: work
 
