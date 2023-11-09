@@ -647,6 +647,6 @@
 645,commuter_rail_ASC_escort,0.7270184755325317,T
 646,walk_transit_CBD_ASC_escort,9.235533714294434,T
 647,drive_transit_CBD_ASC_escort,11.318942070007324,T
-648,incentive_walk,-25,T
-649,incentive_bike,-25,T
-650,incentive_walk_time,-1.25,T
+648,incentive_walk,-50,T
+649,incentive_bike,-50,T
+650,incentive_walk_time,2.5,T
